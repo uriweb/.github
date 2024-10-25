@@ -7,7 +7,7 @@ The University of Rhode Island uses the open-source content management system Wo
 
 Need help with content strategy, the component library, or other tools we offer? Our guides and documentation help us all to stay on-brand and deliver consistently clear and useful content to our digital audience.
 
-[:memo: Content Guide](https://www.uri.edu/wordpress/content-guide/) &nbsp;&nbsp; | &nbsp;&nbsp; [:art: Design](https://www.uri.edu/wordpress/design/) &nbsp;&nbsp; | &nbsp;&nbsp; [:gift: Components](https://www.uri.edu/wordpress/components/) &nbsp;&nbsp; | &nbsp;&nbsp; [:wrench: Tools](https://www.uri.edu/wordpress/tools/)
+[Content Guide](https://www.uri.edu/wordpress/content-guide/) &nbsp;&nbsp; | &nbsp;&nbsp; [Design](https://www.uri.edu/wordpress/design/) &nbsp;&nbsp; | &nbsp;&nbsp; [Components](https://www.uri.edu/wordpress/components/) &nbsp;&nbsp; | &nbsp;&nbsp; [Tools](https://www.uri.edu/wordpress/tools/)
 
 <!--
 ## :technologist: Contribute
